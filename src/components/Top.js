@@ -1,8 +1,8 @@
 import React from "react";
-import shop_multivitamin from "../images/shop_multivitamin.jpg"
-import shop_protein from "../images/shop_protein.jpg"
-import shop_pregnancy from "../images/shop pregnancy.jpg"
-import shop_bundles from "../images/shop bundles.jpg"
+import shop_multivitamin from "../asset/shop_multivitamin.jpg"
+import shop_protein from "../asset/shop_protein.jpg"
+import shop_pregnancy from "../asset/shop pregnancy.jpg"
+import shop_bundles from "../asset/shop bundles.jpg"
 export default function Top () {
   return (
     <>
