@@ -1,4 +1,4 @@
-/* @import "../images/banner.jpg"; */
+/* @import "../asset/banner.jpg"; */
 
 body {
     margin: 0;
@@ -52,7 +52,7 @@ a {
 /* banner  */
 
 .banner_container {
-    background: url("./images/banner.jpg");
+    background: url("./asset/banner.jpg");
     background-position-x: center;
     background-repeat: no-repeat;
     width: 95vw;
@@ -260,7 +260,7 @@ a {
         justify-content: space-between;
     }
     .banner_container {
-        background: url("./images/banner.jpg");
+        background: url("./asset/banner.jpg");
         background-repeat: no-repeat;
         background-position-y: center;
         background-position-x: center;
